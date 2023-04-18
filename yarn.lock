@@ -1846,6 +1846,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@kurkle/color@npm:^0.3.0":
+  version: 0.3.2
+  resolution: "@kurkle/color@npm:0.3.2"
+  checksum: 79e97b31f8f6efb28c69d373f94b0c7480226fe8ec95221f518ac998e156444a496727ce47de6d728eb5c3369288e794cba82cae34253deb0d472d3bfe080e49
+  languageName: node
+  linkType: hard
+
 "@leichtgewicht/ip-codec@npm:^2.0.1":
   version: 2.0.4
   resolution: "@leichtgewicht/ip-codec@npm:2.0.4"
@@ -2721,7 +2728,7 @@ __metadata:
     chai: ^4.3.4
     chart.js: ^3.9.1
     chartjs-adapter-date-fns: ^2.0.0
-    chartkick: ^4.2.0
+    chartkick: ^5.0.1
     core-js: ^3.21.1
     create-react-class: ^15.7.0
     cross-fetch: ^3.1.5
@@ -3906,10 +3913,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chart.js@npm:>=3.0.2":
-  version: 3.8.0
-  resolution: "chart.js@npm:3.8.0"
-  checksum: 0360212bf5d534effc8475a1aa705ba7257a315af368b5e8eecf476f0bd57a6bb80ad740e870d552f2d11e134dd1497ccef02950d7e626c21a400ff00ecf59af
+"chart.js@npm:4":
+  version: 4.2.1
+  resolution: "chart.js@npm:4.2.1"
+  dependencies:
+    "@kurkle/color": ^0.3.0
+  checksum: 7319fdfd1e29812e87bbc07737e8c9072ff659bbc09ade8dd262f83424cd7e48f89afe5220e11e002c9f236883fae3f3adb8adc16acb4682b0ddcc0b661c3af9
   languageName: node
   linkType: hard
 
@@ -3920,7 +3929,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chartjs-adapter-date-fns@npm:>=2.0.0, chartjs-adapter-date-fns@npm:^2.0.0":
+"chartjs-adapter-date-fns@npm:>=3":
+  version: 3.0.0
+  resolution: "chartjs-adapter-date-fns@npm:3.0.0"
+  peerDependencies:
+    chart.js: ">=2.8.0"
+    date-fns: ">=2.0.0"
+  checksum: c39bfdf490749faa589fba6e0dc0a2c5a467a5f06aaa52c5180e10fd9c83414807a064f6950538448bffee354c8064c0ce9d957bccbf2048e7ee2257aa95f138
+  languageName: node
+  linkType: hard
+
+"chartjs-adapter-date-fns@npm:^2.0.0":
   version: 2.0.0
   resolution: "chartjs-adapter-date-fns@npm:2.0.0"
   peerDependencies:
@@ -3929,13 +3948,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chartkick@npm:^4.2.0":
-  version: 4.2.0
-  resolution: "chartkick@npm:4.2.0"
+"chartkick@npm:^5.0.1":
+  version: 5.0.1
+  resolution: "chartkick@npm:5.0.1"
   dependencies:
-    chart.js: ">=3.0.2"
-    chartjs-adapter-date-fns: ">=2.0.0"
-    date-fns: ">=2.0.0"
+    chart.js: 4
+    chartjs-adapter-date-fns: ">=3"
+    date-fns: ">=2"
   dependenciesMeta:
     chart.js:
       optional: true
@@ -3943,7 +3962,7 @@ __metadata:
       optional: true
     date-fns:
       optional: true
-  checksum: 0446725e4cd42c6059f26c8d0dd316105c94efc4e687663450d2a91116fb11c612ccfc67cb2b9d07874e1efe7a534762367a1c39fb7c2fcb9cefd27b1ea3c656
+  checksum: 25cd441230560a91475957ae702d991ec33579cf565557537b6284a0b81be6f77a99f686f2e8f28e2b3fbccf339ca4179218ecd44cae2cc6ab626902a7a0ac02
   languageName: node
   linkType: hard
 
@@ -4691,7 +4710,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"date-fns@npm:>=2.0.0, date-fns@npm:^2.28.0":
+"date-fns@npm:>=2":
+  version: 2.29.3
+  resolution: "date-fns@npm:2.29.3"
+  checksum: e01cf5b62af04e05dfff921bb9c9933310ed0e1ae9a81eb8653452e64dc841acf7f6e01e1a5ae5644d0337e9a7f936175fd2cb6819dc122fdd9c5e86c56be484
+  languageName: node
+  linkType: hard
+
+"date-fns@npm:^2.28.0":
   version: 2.28.0
   resolution: "date-fns@npm:2.28.0"
   checksum: a0516b2e4f99b8bffc6cc5193349f185f195398385bdcaf07f17c2c4a24473c99d933eb0018be4142a86a6d46cb0b06be6440ad874f15e795acbedd6fd727a1f
