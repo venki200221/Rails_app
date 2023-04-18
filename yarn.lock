@@ -2798,7 +2798,7 @@ __metadata:
     striptags: ^3.2.0
     stylelint-config-standard: ^20.0.0
     stylus: ^0.54.8
-    stylus-native-loader: ^1.1.2
+    stylus-native-loader: ^1.4.9
     tinymce: ^5.2.2
     url-loader: ^4.1.0
     uuid: ^3.4.0
@@ -12308,13 +12308,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"stylus-native-loader@npm:^1.1.2":
-  version: 1.4.7
-  resolution: "stylus-native-loader@npm:1.4.7"
+"stylus-native-loader@npm:^1.4.9":
+  version: 1.4.9
+  resolution: "stylus-native-loader@npm:1.4.9"
   peerDependencies:
     stylus: "*"
     webpack: ^4.0.0 || ^5.0.0
-  checksum: 22bfcab0b507c67024297161c2404a3b34b1be4f1dab7801feabe6b4c91f6b726a998e18eccbb3f514cb429d874352f3a6ed1ea8081ada10514db61416eba29b
+  checksum: ee0be3626d7b5166bb0e486df984dfaed26fe0cb8f4d6fb15ccfb3487a6212cfb54fa1e95a3acef59028ca97305c057f35dc5b44b613576dfc3b7968daac737f
   languageName: node
   linkType: hard
 
