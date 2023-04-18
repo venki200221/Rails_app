@@ -11,7 +11,7 @@ gem 'figaro' # easy access to ENV variables. Deprecated.
 gem 'puma'
 
 ### Database and caching
-gem 'sqlite3',"1.6.1" # MariaDB integration for ActiveRecord
+gem 'sqlite3',"1.6.2" # MariaDB integration for ActiveRecord
 gem 'activerecord-import' # Used to save batches of new ActiveRecord objects
 # convenient cloning of ActiveRecord objects along with child records
 # Used for cloning surveys and courses.
