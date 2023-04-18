@@ -1,0 +1,155 @@
+%h5 Input
+%input{type: "text", placeholder: "Input"}/
+
+%br/
+%br/
+
+%h5 Textarea
+%textarea{placeholder: "Texatrea"}
+
+%br/
+%br/
+
+%h5 Radio buttons
+%label
+  %input{type: "radio", name: "radioGroup1", value: "option1", checked: true} Checked
+%label
+  %input{type: "radio", name: "radioGroup1", value: "option2"}  Unchecked
+%label
+  %input{type: "radio", name: "radioGroup1", value: "option3", disabled: true} Disabled
+
+%br/
+%br/
+
+%h5 Checkboxes
+%label
+  %input{type: "checkbox", value: "option1", checked: true} Checked
+%label
+  %input{type: "checkbox", value: "option2"}  Unchecked
+%label
+  %input{type: "checkbox", value: "option3", disabled: true} Disabled
+
+%br/
+%br/
+
+%h5 Vanilla select
+%select
+  %option{value: "Option 1"} Option 1
+  %option{value: "Option 2"} Option 2
+  %option{value: "Option 3"} Option 3
+
+%br/
+%br/
+
+%h5 Vanilla multiselect
+%select{multiple: "multiple"}
+  %option{value: "Option 1"} Option 1
+  %option{value: "Option 2"} Option 2
+  %option{value: "Option 3"} Option 3
+
+%br/
+%br/
+
+%h5 Select2
+
+%br/
+%br/
+
+%h5 Date picker
+#date-picker-enabled
+.form-group.datetime-control.exp-datetime-control
+  %span.form-group.date-picker--form-group
+    .date-input
+      %input#exp.start{:value => "2022-02-12"}/
+#date-picker-disabled
+.form-group.datetime-control.exp-datetime-control
+  %span.form-group.date-picker--form-group
+    .date-input
+      %input#exp.start{:disabled => "disabled", :value => "2022-02-12"}/
+%br/
+
+%h5 Calendar
+#calendar
+.DayPicker
+  .DayPicker-wrapper
+    .DayPicker-NavBar
+      %span.DayPicker-NavButton.DayPicker-NavButton--prev
+      %span.DayPicker-NavButton.DayPicker-NavButton--next
+    .DayPicker-Months
+      .DayPicker-Month{:role => "grid"}
+        .DayPicker-Caption{:role => "heading"}
+          %div February 2022
+        .DayPicker-Weekdays{:role => "rowgroup"}
+          .DayPicker-WeekdaysRow{:role => "row"}
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Sunday"} Su
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Monday"} Mo
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Tuesday"} Tu
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Wednesday"} We
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Thursday"} Th
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Friday"} Fr
+            .DayPicker-Weekday{:role => "columnheader"}
+              %abbr{:title => "Saturday"} Sa
+        .DayPicker-Body{:role => "rowgroup"}
+          .DayPicker-Week{:role => "row"}
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day{:role => "gridcell"} 1
+            .DayPicker-Day{:role => "gridcell"} 2
+            .DayPicker-Day{:role => "gridcell"} 3
+            .DayPicker-Day{:role => "gridcell"} 4
+            .DayPicker-Day{:role => "gridcell"} 5
+          .DayPicker-Week{:role => "row"}
+            .DayPicker-Day{:role => "gridcell"} 6
+            .DayPicker-Day{:role => "gridcell"} 7
+            .DayPicker-Day{:role => "gridcell"} 8
+            .DayPicker-Day{:role => "gridcell"} 9
+            .DayPicker-Day{:role => "gridcell"} 10
+            .DayPicker-Day{:role => "gridcell"} 11
+            .DayPicker-Day.DayPicker-Day--selected{:role => "gridcell"} 12
+          .DayPicker-Week{:role => "row"}
+            .DayPicker-Day.DayPicker-Day--today{:role => "gridcell"} 13
+            .DayPicker-Day{:role => "gridcell"} 14
+            .DayPicker-Day{:role => "gridcell"} 15
+            .DayPicker-Day{:role => "gridcell"} 16
+            .DayPicker-Day{:role => "gridcell"} 17
+            .DayPicker-Day{:role => "gridcell"} 18
+            .DayPicker-Day{:role => "gridcell"} 19
+          .DayPicker-Week{:role => "row"}
+            .DayPicker-Day{:role => "gridcell"} 20
+            .DayPicker-Day{:role => "gridcell"} 21
+            .DayPicker-Day{:role => "gridcell"} 22
+            .DayPicker-Day{:role => "gridcell"} 23
+            .DayPicker-Day{:role => "gridcell"} 24
+            .DayPicker-Day{:role => "gridcell"} 25
+            .DayPicker-Day{:role => "gridcell"} 26
+          .DayPicker-Week{:role => "row"}
+            .DayPicker-Day{:role => "gridcell"} 27
+            .DayPicker-Day{:role => "gridcell"} 28
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day.DayPicker-Day--outside
+            .DayPicker-Day.DayPicker-Day--outside
+
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+%br/
+
+%h5 Rich text editor
+#rich-text

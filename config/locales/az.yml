@@ -1,0 +1,57 @@
+# Messages for Azerbaijani (azərbaycanca)
+# Exported from translatewiki.net
+# Export driver: phpyaml
+# Author: AZISS
+# Author: NMW03
+# Author: Neriman2003
+# Author: Vesely35
+# Author: Şeyx Şamil
+---
+az:
+  application:
+    cancel: İmtina
+    greeting2: Xoş gəldiniz!
+    greeting_extended: Vikipediyaya xoş gəldiniz
+    greeting: Salam!
+    help: Kömək
+    home: Ana səhifə
+    log_in: Daxil ol
+    log_out: Sistemdən çıx
+    sign_up: Qeydiyyatdan keç
+    change: Dəyişdir
+    opt_in: Bəli
+    opt_out: Xeyr
+    opt_yes: bəli
+    opt_no: xeyr
+  activity:
+    edited_by: tərəfindən dəyişdirildi
+  articles:
+    edited: məqalə redaktə edilib
+    edited_mobile: Məqalələr
+    label: Məqalələr
+    title: Başlıq
+    view_all: Hamısını görüntülə
+  blocks:
+    milestones:
+      title: Mərhələ
+  campaign:
+    default_passcode: Standart parol
+  courses:
+    course_description: Kurslar
+    courses: Kurslar
+    current: Cari kurslar
+    duration: Kursun müddəti
+    new_week: Yeni həftə əlavə et
+    school: Məktəb
+    stay_in_sandbox: Sandboxda qalın
+    students: Tələbələr
+    students_short: Tələbələr
+    submitted_at: Göndərilib
+    title: Başlıq
+  metrics:
+    last_update: Son statistik məlumatların yeniləməsi
+    next_update: Növbəti təxmini güncəlləştirmə
+    date_time: Tarix/Vaxt
+  revisions:
+    date_time: Tarix/Vaxt
+...

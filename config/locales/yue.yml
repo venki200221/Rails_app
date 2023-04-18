@@ -1,0 +1,23 @@
+# Messages for Cantonese (粵語)
+# Exported from translatewiki.net
+# Export driver: phpyaml
+# Author: Hello903hello
+# Author: Moon0319
+# Author: Obonggi
+---
+yue:
+  application:
+    cookie_consent_see_more: 睇多啲。
+    create_accounts: 開維基百科戶口
+    greeting: 哈佬！
+    help: 幫手
+    home: 頭版
+    log_in: 簽到
+    log_out: 簽走
+  courses:
+    creation_date: 創建嘅日期
+  wizard:
+    select_one_option: 請選擇一個
+  error:
+    invalid_file_format: 文件無法保存。請上傳PDF或者Word文檔。
+...

@@ -1,0 +1,77 @@
+# Messages for Northern Sami (davvisámegiella)
+# Exported from translatewiki.net
+# Export driver: phpyaml
+# Author: Kimberli Mäkäräinen (WMNO)
+# Author: Yupik
+---
+se:
+  application:
+    cancel: Šluhtte
+    cookie_consent_see_more: Lassedieđut
+    greeting2: Bures boahtin!
+    log_in_extended: Čálit sisa Wikipedia bokte
+    log_in: Čálit sisa
+    log_out: Čálit olggos
+  home:
+    log_in: Čálit sisa Wikipedia bokte
+  articles:
+    next: Čuovvovaš
+    deleted: (sihkkojuvvon)
+    filter:
+      new: Ođđa
+    hide: Čiega
+    new: (ođđa artihkal)
+    see_more: Lassedieđut
+    view_all: Čájet buot
+  assignments:
+    remove: Sihko
+    select: Vállje
+  campaign:
+    description: Govvádus
+  categories:
+    template_name: Málle namma
+    remove: Sihko
+  courses:
+    delete_suggestion: Sihko
+    feedback: Máhcahat
+    new_account_email: E-poastačujuhus
+    please_log_in: Čálit sisa.
+    search_courses: Oza kurssaid
+    tags: 'Gilkorat:'
+    timeline_link: Áigelinnjá
+  courses_generic:
+    cancel: Šluhtte
+    creator:
+      save_cloned_course: Vurke
+  editable:
+    cancel: Šluhtte
+    save: Vurke
+  instructor_view:
+    bad_work:
+      learn_more_button: Lassedieđut
+  metrics:
+    tags: Gilkorat
+    removed: Sihkkojuvvon
+  recent_activity:
+    file_name: Fiilanamma
+  revisions:
+    diff_show: Čájet
+    diff_hide: Čiega
+    see_more: Lassedieđut
+  timeline:
+    title: Áigelinnjá
+  training:
+    view: Čájet
+    next: Čuovvovaš siidu
+    page: Siidu
+  users:
+    first_name: Ovdanamma
+    last_name: Goargu
+    useremail_placeholder: E-poastačujuhus
+  wizard:
+    read_more: Čájet lasi
+  article_finder:
+    remove_article: Sihko artihkkala
+  training_status:
+    view: Čájet
+...

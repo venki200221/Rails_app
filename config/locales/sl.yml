@@ -1,0 +1,410 @@
+# Messages for Slovenian (slovenščina)
+# Exported from translatewiki.net
+# Export driver: phpyaml
+# Author: Eleassar
+# Author: Janezdrilc
+# Author: Pickle12
+---
+sl:
+  accessibility:
+    number_field: To je številsko polje. Gumbi, ki jih prikaže večina brskalnikov,
+      bodo povečali ali zmanjšali vnos.
+  application:
+    cancel: Prekliči
+    cookie_consent_see_more: Prikaži več.
+    create_accounts: Ustvari račune Wikipedije
+    dashboard: Nadzorna plošča urejanja vikija
+    error: 'Prišlo je do napake:'
+    explore: Raziskuj
+    greeting2: Pozdravljeni!
+    greeting: Pozdravljeni!
+    help: Pomoč
+    home: Domov
+    log_in_extended: Prijava z Wikipedijo
+    log_in: Prijava
+    log_out: Odjava
+    no_results: Za »%{query}« ni bil najden noben zadetek
+    sign_up: Ustvari račun
+    submit: Pošlji
+    change: Spremeni
+    details: Podrobnosti
+    confirm: V redu
+    opt_in: Da
+    opt_out: Ne
+    print: Natisni
+  article_statuses:
+    ready_for_mainspace: Prestavitev dela v glavni imenski prostor
+  home:
+    explore: Raziskuj
+    sign_up_help: Za uporabo nadzorne plošče se morate prijaviti v Wikipediji in ji
+      podeliti dovoljenje za dostop do vašega računa. Lahko se prijavite z obstoječim
+      računom Wikipedije ali ustvarite novega. Če ne morete ustvariti računa, se obrnite
+      na dashboard@wikiedu.org.
+  alerts:
+    alert_label: Opomniki
+    no_alerts: Ni najdenih opomnikov.
+  activity:
+    all: Dejavnost
+    label: Dejavnost
+  articles:
+    articles: Članki
+    assignments_none: Ni še nobenega dodeljenega članka.
+    article_title: Naslov članka
+    edited_mobile: Članki
+    filter:
+      wiki_all: Vsi
+      new: Nov
+    history: (zgodovina)
+    label: Članki
+    loading: Nalaganje člankov ...
+    new: (novo)
+    preview: Kratek predogled članka
+    rating: Razred
+    see_more: Več o tem
+    show_cumulative_changes: Prikaži kumulativne spremembe
+    show_current_version: Prikaži trenutno različico
+    title: Naslov
+    title_example: Naslov članka
+    view_all: Pokaži vse
+  items:
+    assignments_none: Ni še nobenih dodeljenih predmetov.
+    does_not_exist: Ta predmet ne obstaja. Da prejmete predloge, ustvarite peskovnik
+      in se mu dodelite.
+    edited_none: Ni še nobenih urejenih predmetov.
+    preview: Kratek predogled predmeta
+    title_example: Naslov predmeta
+  articles_generic:
+    articles_short: Strani
+  assignments:
+    article_link_wikidata: Predmet
+    confirm_deletion: Ali res želite izbrisati to dodelitev?
+    loading: Nalaganje dodelitev ...
+    remove: Odstrani
+    review_self_wikidata: Ponovni pregled predmeta
+    sandbox_draft_link: Osnutek peskovnika
+    select: Izberi
+  campaign:
+    alert_article: Naslov članka
+    alert_label: Opomniki kampanj
+    alert_user_id: Uporabnik
+    campaign: Kampanja
+    campaigns: Kampanje
+    created_at: Datum
+    data_articles: Urejene strani
+    data_revisions: Podatki o redakcijah
+    description: Opis
+    no_alerts: Ta kampanja nima opomnikov
+    none: Noben
+    program_template: Predloga programa
+    requested_accounts: Zahtevani računi
+    title: Naslov
+    search_campaigns: Preišči kampanje
+    search: Išči
+  categories:
+    add_template: Dodaj predlogo
+    add_this_template: Dodaj to predlogo
+    confirm_category_addition: Ste prepričani, da želite slediti prispevke v kategorijo
+      »%{name}«?
+    name: Ime
+    template_name: Ime predloge
+    none: Ni sledenih kategorij.
+    remove: Odstrani
+    timestamp: Zadnja posodobitev dne
+  courses:
+    active_courses: Aktivni tečaji
+    archived: Arhivirani tečaji
+    actions: Dejanja
+    articles: Članki
+    article_viewer_wikidata: Pregledovalnik predmetov
+    cancel: Prekliči
+    character_doc: Skupno število znakov, ki so jih udeleženci tečaja v času tečaja
+      dodali člankom v glavnem imenskem prostoru
+    campaigns: 'Kampanje:'
+    campaign_articles: Članki za »%{title}«
+    campaign_courses: Tečaji za »%{title}«
+    campaign_select: Izberite kampanjo
+    campaign_users: Urejevalci »%{title}«
+    courses: Tečaji
+    creator:
+      assignment_end: Konec dodelitve
+      assignment_start: Začetek dodelitve
+      cancel_course_clone: Prekliči klon tečaja
+      cancel_course_clone_confirm: Ali res želite ustaviti kloniranje tega predmeta?
+      course_description: Opis tečaja
+      course_term: Termin tečaja
+      course_term_placeholder: Termin
+      course_title: Naslov tečaja
+      create_label: Ustvari nov tečaj
+      end_date: Končni datum
+      start_date: Začetni datum
+    current: Trenutni tečaji
+    data_articles: Podatki o člankih
+    data_overview: Pregledni podatki
+    data_edits: Podatki o urejanjih
+    data_students: Podatki o urejevalcih
+    data_revisions: Podatki o redakcijah
+    delete_suggestion: Izbriši
+    dismiss_survey: Opusti
+    embed_course_stats_description: Za vdelavo statistike tega programa v drugo spletno
+      mesto kopirajte in prilepite ta delček kode
+    end: Konec
+    ended: Tečaj je končan.
+    error:
+      invalid_wiki: Ni mogoče vzpostaviti povezave z %{domain}. Morda ni veljaven
+        wiki.
+    feedback: Povratne informacije
+    namespaces: Sledeni imenski prostori
+    join_prompt: Se želite pridružiti »%{title}«?
+    join_failed: Vpis ni uspel.
+    join_no_passcode: Ali se res želite pridružiti temu predmetu?
+    leave_confirmation: Ali res želite zapustiti ta tečaj?
+    loading: Nalaganje ...
+    new_week: Dodaj nov teden
+    new_account_email_placeholder: ime@example.org
+    none: Noben
+    not_permitted: Nimate dovoljenja za urejanje tega tečaja.
+    overview: Domov
+    private: Zasebni
+    requested_accounts: Zahtevani računi
+    requested_accounts_alert_view: Ogled
+    revisions_doc: Število urejanj v zadnjih %{timeframe} dneh
+    school_and_term: Ustanova/termin
+    search_all_tickets_for_this_course: Preišči vse kartice za ta tečaj
+    search_courses: Poišči tečaje
+    start: Začetek
+    stay_in_sandbox: Ostani v peskovniku
+    tags: 'Oznake:'
+    term: Termin
+    timeline: Podrobnosti dodelitve
+    timeline_link: Časovnica
+    title: Naslov
+    view: Ogled tečaja
+    view_page: Ogled strani tečaja
+    word_count_doc: Ocena števila besed, ki so jih udeleženci tečaja v času tečaja
+      dodali člankom v glavnem imenskem prostoru
+    word_count_doc_wikidata: Ocena števila besed, ki so jih udeleženci tečaja v času
+      tečaja dodali predmetom v glavnem imenskem prostoru
+    survey:
+      notification_message: Izpolnite našo anketo za ta tečaj.
+  courses_generic:
+    add_campaign: Dodaj kampanjo
+    archived: Arhivirani programi
+    cancel: Prekliči
+    course: Program
+    courses: Programi
+    campaigns: 'Kampanje:'
+    campaign_courses: Programi %{title}
+    creator:
+      cancel_course_clone: Prekliči klon programa
+      cancel_course_clone_confirm: Ali res želite ustaviti kloniranje tega programa?
+      course_description: Opis programa
+      course_title: Naslov programa
+      create_label: Ustvari nov program
+      save_cloned_course: Shrani
+    edit_course_dates: Uredi datume projekta
+    not_permitted: Nimate dovoljenja za urejanje tega programa.
+    request_accounts: Zahtevaj račune
+    search_courses: Poišči programe
+    student_editors: Urejevalci
+    students: Urejevalci
+    students_short: Urejevalci
+    students_count: Število udeležencev
+    view_page: Ogled strani programa
+    word_count_doc: Ocena števila besed, ki so jih udeleženci programa v času programa
+      dodali člankom v glavnem imenskem prostoru
+    word_count_doc_wikidata: Ocena števila besed, ki so jih udeleženci programa v
+      času programa dodali predmetom v glavnem imenskem prostoru
+  editable:
+    edit: Uredi
+    cancel: Prekliči
+    save: Shrani
+    edit_description: Uredi opis
+    edit_template: Uredi predlogo
+  instructor_view:
+    assignments_table:
+      article_name: Ime
+    bad_work:
+      learn_more_button: Več o tem
+    select_student:
+      title: Izberi %{prefix}
+  metrics:
+    last_update: Zadnja posodobitev statistike
+    articles_created_generic: Ustvarjene strani
+    articles_edited_generic: Urejene strani
+    bytes_added: Zlogov dodanih
+    char_added: Dodani znaki
+    char_changed: Spremenjenih znakov
+    char: Dodani znaki
+    close_modal: Zapri
+    date_time: Datum/čas
+    last_reviewed: Zadnjič pregledano
+    missing_data_heading: Manjkajoči ali nepričakovani zadetki?
+    last_update_failed: Zadnja posodobitev tega tečaja ni uspela.
+    tags: Oznake
+    update_statistics_link: Več o tem
+    view_count_description_wikidata: Ogledi predmeta
+    view_data_unavailable: Ni razpoložljivih podatkov o ogledu
+    word_count: Dodane besede
+    changed: Spremenjen
+    labels: Oznake
+    no_data: Ni podatkov
+  namespace:
+    all: Vsi
+    project: Projekt
+    template: Predloga
+    page: Stran
+    translation: Prevod
+    query: Poizvedba
+    lexeme: Leksem
+    tracked_namespaces_info: K statističnim pregledom na vrhu bodo prispevali samo
+      članki, ki ustrezajo sledenim imenskim prostorom, kot so »Urejeni članki«, »Skupno
+      urejanje«, »Dodane besede« ipd. Sledite samo imenskim prostorom, ki jih vaš
+      program želi izboljšati.
+  recent_activity:
+    active_courses: Članek je aktiven v
+    article_title: Naslov
+    datetime: Datum/čas
+    image: Slika
+    file_name: Ime datoteke
+    no_edits: Ni nedavnih urejanj.
+    plagiarism_explanation: Sistem Wikipedije za odkrivanje plagiatorstva uporablja
+      za primerjavo novih urejanj z objavljenim besedilom Turnitin/iThenticate. Ta
+      poročila niso 100-odstotno točna. Neposreden citat z ustreznim pripisom lahko
+      na primer sproži lažno pozitivno poročilo o plagiatorstvu. Preden ukrepate,
+      preglejte prispevke študenta in podrobnosti poročila. (Če ugotovite, da sprememba
+      — ali celoten članek — ni dostopna, je bila vsebina morda izbrisana zaradi avtorskih
+      pravic.)
+    revision_datetime: Datum/čas redakcije
+    usage_count: Število uporab
+  revisions:
+    references: Sklici dodani
+    class: Razred
+    date_time: Datum/čas
+    diff: razl
+    diff_show: Prikaži
+    diff_hide: Skrij
+    loading: Nalaganje redakcij ...
+    time_doc: Čas vsake redakcije v vašem lokalnem času
+    title: Naslov
+    see_more: Več o tem
+    show_all: Prikaži vse
+  settings:
+    admin_users:
+      new:
+        form_placeholder: Uporabniško ime
+  suggestions:
+    editing: Predlogi za urejanje
+    suggestion_docs:
+      list: Seznami naj bodo seznami delujočih povezav na članke v Wikipediji, ki
+        so ustrezno poimenovane in urejene.
+  tickets:
+    search_bar_placeholder: Iskanje zahtevkov
+    chose_search_type: Izberite vrsto iskanja
+  timeline:
+    block_assignment: Dodelitev
+    delete_week_confirmation: |-
+      Ste prepričani, da želite izbrisati ta teden? To bo izbrisalo teden in vse pridružene blokade.
+
+      Tega ni mogoče razveljaviti.
+    delete_weeks_confirmation: |-
+      Ste prepričani, da želite izbrisati to celotno časovnico in začeti znova?
+
+      Tega ni mogoče razveljaviti.
+    discard_all_changes: Zavrzi vse spremembe
+    empty_week_3: ali
+    gradeable_value: Vrednost
+    save_all_changes: Shrani vse
+    title: Časovnica
+  training:
+    start: Začetek
+    view: Ogled
+    page: Stran
+    table_of_contents: Kazalo vsebine
+    done: Končano!
+    kind:
+      discussion: Pogovor
+    no_training_library_records_wiki_ed_mode: V zbirki podatkov ni zapisov TrainingLibrary.
+      Če želite naložiti podatke o usposabljanju iz datotek training_content/yaml,
+      kliknite <a href="%{url}">tukaj</a>.
+    no_training_library_records_non_wiki_ed_mode: V zbirki podatkov ni zapisov TrainingLibrary.
+    search_training_resources: Poiščite vire za usposabljanje
+    no_training_resource_match_your_search: Z vašim iskanjem se ne ujema noben vir
+      za usposabljanje
+  update_username:
+    header: Posodobite spremenjeno uporabniško ime
+    not_found: Za vneseno uporabniško ime ni bilo mogoče najti uporabnika.
+    username_updated: Uporabniško ime je uspešno posodobljeno!
+    info: Če je uporabnik spremenil uporabniško ime za svoj Wikimedia račun, tukaj
+      vnesite novo uporabniško ime, da ga posodobite na nadzorni plošči.
+    label: Novo uporabniško ime
+    button: Posodobi
+  uploads:
+    image: Slika
+    label: Naložitve
+    loading: Nalaganje naložitev ...
+    time_doc: Čas vsake naložitve v vašem lokalnem času
+    uploaded_at: Čas naložitve
+    usage_count: Število uporab
+  users:
+    assign_articles_done: Končano
+    loading_authorship_data: nalaganje podatkov o avtorstvu
+    contribution_statistics: Statistika prispevkov
+    enrolled_success: '%{username} je bil_a uspešno dodan_a!'
+    first_name: Ime
+    last_name: Priimek
+    loading: Nalaganje uporabnikov ...
+    characters_added_mainspace_wikidata: Dodani znaki (predmet)
+    name: Ime
+    none: Ni udeležencev.
+    no_articles_wikidata: Ni predmetov
+    no_revisions: (brez redakcij)
+    number_of_articles:
+      one: '%{count} članek'
+      other: '%{count} članka'
+    request_confirmation: Ali res želite zaprositi za ta račun?
+    revisions: Redakcije
+    training_module_status: Stanje
+    username: Uporabniško ime
+    username_placeholder: Uporabniško ime
+    role:
+      visitor: Obiskovalec
+      student: Študent/učenec
+      instructor: Inštruktor
+      campus_volunteer: Prostovoljec kampusa
+      online_volunteer: Spletni prostovoljec
+      wiki_ed_staff: Kolektiv Wikiizobraževanja
+  user_profiles:
+    image_link_placeholder: Dodajte povezavo na sliko (neobvezno)
+  wizard:
+    assignment_dates: Datumi dodelitve
+    select_one_option: Prosimo, izberite 1 možnost.
+    read_more: Preberi še kaj
+    summary: Povzetek
+  error:
+    form_errors: Preverite obrazec glede napak.
+  error_no_course:
+    explanation: Predmet %{slug} ne obstaja.
+  error_404:
+    header: Stran ni bila najdena. :-(
+  login_error:
+    header: Napaka pri prijavi
+  survey:
+    email:
+      headline: Pozdravljeni, %{username}
+  feedback_form_responses:
+    no_responses: Povratnih informacij še ni.
+  article_finder:
+    article_finder_wikidata: Iskalnik predmetov
+    category_search: Poišči po kategorijah
+    keyword_search: Iskanje po ključni besedi
+    more_results: Več zadetkov
+    relevanceIndex: Indeks ustreznosti
+    search: Išči
+    searching_articles: Iskanje člankov
+    searching_articles_wikidata: Iskanje predmetov
+    unassign_article_self_wikidata: Prekliči dodelitev predmeta
+  training_status:
+    continue: Nadaljuj
+    completion_time: Čas dokončanja
+    view: Ogled
+...

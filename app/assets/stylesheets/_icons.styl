@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "icons";
+  src: url('../fonts/icons.eot');
+  src: url('../fonts/icons.eot?#iefix') format('eot'),
+    url('../fonts/icons.woff') format('woff'),
+    url('../fonts/icons.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon:before {
+  display: inline-block;
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-down:before { content: "\EA01" }
+.icon-arrow-up:before { content: "\EA02" }
+.icon-arrow:before { content: "\EA03" }
+.icon-arrow-reverse:before {
+  content: "\EA03";
+  position: relative;
+  top: 2px;
+  transform: rotate(180deg);
+}
+.icon-check:before { content: "\EA04" }
+.icon-circle_q_mark:before { content: "\EA05" }
+.icon-left_arrow:before { content: "\EA06" }
+.icon-message:before { content: "\EA07" }
+.icon-plus:before { content: "\EA08" }
+.icon-restart:before { content: "\EA09" }
+.icon-rt_arrow:before { content: "\EA0A" }
+.icon-search:before { content: "\EA0B" }
+.icon-sort:before { content: "\EA0C" }
+.icon-trash_can:before { content: "\EA0D" }
+.icon-up_arrow:before { content: "\EA0E" }
+.icon-wiki-logo:before { content: "\EA0F" }
+.icon-z-external-link:before { content: "\EA10" }
+
+.icon-close
+  background url('../images/close.svg') center no-repeat
+  padding 16px
+  &:hover
+    outline 3px solid mischka
+
+.icon-link
+  background url('../images/link-light.svg') center no-repeat
+  background-size 24px
+  padding 12px
+  margin-left 10px
+  &:hover
+    background url('../images/link-medium.svg') center no-repeat
+    background-size 24px
+
+.icon-article-viewer
+  background url('../images/article-viewer-grey.svg') center no-repeat
+  background-size 60px
+  padding 24px
+  left calc(50% - 12px)
+  &:hover
+    background url('../images/article-viewer.svg') center no-repeat
+    background-size 60px
+
+
+.icon-article-viewer-disabled
+  background url('../images/article-viewer-grey.svg') center no-repeat
+  background-size 60px
+  padding 24px
+  left calc(50% - 12px)
+  cursor: not-allowed
+
+
+.icon-diff-viewer
+  background url('../images/diff-viewer-grey.svg') center no-repeat
+  background-size 60px
+  padding 24px
+  &:hover
+    background url('../images/diff-viewer.svg') center no-repeat
+    background-size 60px
+
+.icon-list_view
+  background url('../images/view-list.svg') center no-repeat
+  background-size 50%
+
+.icon-gallery_view
+  background url('../images/view-justified-gallery.svg') center no-repeat
+  background-size 50%
+
+.icon-tile_view
+  background url('../images/view-tile.svg') center no-repeat
+  background-size 50%
+
+.icon-notifications_bell
+  background url('../images/notifications-bell.svg') center no-repeat
+  background-size 50%

@@ -1,0 +1,367 @@
+# Messages for Greek (Ελληνικά)
+# Exported from translatewiki.net
+# Export driver: phpyaml
+# Author: Ajeje Brazorf
+# Author: GR
+# Author: Geraki
+# Author: Giorgos456
+# Author: Glavkos
+# Author: KATRINE1992
+# Author: NikosLikomitros
+# Author: Nikosgranturismogt
+# Author: Norhorn
+# Author: SkarletWitch
+# Author: Ανώνυμος Βικιπαιδιστής
+---
+el:
+  application:
+    cancel: Ακύρωση
+    cookie_consent_acknowledge: Καταλαβαίνω
+    cookie_consent_see_more: Δείτε περισσότερα.
+    create_accounts: Δημιουργία λογαριασμών Βικιπαίδειας
+    dashboard: Wiki Ed Dashboard
+    documentation: Τεκμηρίωση
+    error: 'Υπήρξε ένα σφάλμα:'
+    explore: Εξερεύνηση
+    field_required: Αυτό το πεδίο απαιτείται
+    field_invalid_characters: Αυτό το πεδίο έχει μη έγκυρους χαρακτήρες
+    field_invalid_date: Αυτό το πεδίο απαιτεί μια ημερομηνία σε μορφή έτους-μήνα-ημέρας
+    field_invalid_date_time: Το τέλος πρέπει να είναι μετά την αρχή. (Οι ώρες πάνε
+      από τις 0 έως τις 23.)
+    greeting2: Καλώς ήρθατε!
+    greeting_extended: Καλωσήρθατε στη Βικιπαίδεια
+    greeting: Γεια!
+    help: Βοήθεια
+    home: Αρχική
+    log_in_extended: Σύνδεση στη Βικιπαίδεια
+    log_in: Σύνδεση
+    log_out: Αποσύνδεση
+    my_dashboard: Πίνακας εργασίας
+    recent_activity: Πρόσφατη δραστηριότητα
+    report_problem: Αναφορά προβλήματος
+    request_account: Κάντε αίτηση για ένα λογαριασμό
+    request_account_create: Δημιουργία λογαριασμού
+    search: Κάντε μια ερώτηση
+    search_results:
+      one: '%{count}Αποτελέσμα για: ''%{search_terms}'''
+      other: '%{count} Αποτελέσματα για: ''%{search_terms}'''
+    no_results: Δεν βρέθηκαν αποτελέσματα για «%{query}»
+    sign_up_extended: Εγγραφή με Βικιπαίδεια
+    sign_up_wikipedia: ή συνδεθείτε στη Βικιπαίδεια
+    sign_up_log_in_extended: με τη Βικιπαίδεια
+    sign_up: Εγγραφή
+    submit: Υποβολή
+    training: Εκπαίδευση
+    change: Αλλαγή
+    details: Λεπτομέρειες
+    confirm: Εντάξει
+    opt_in: Ναι
+    opt_out: Όχι
+    opt_yes: ναι
+    opt_no: όχι
+    print: Εκτύπωση
+  article_statuses:
+    not_yet_started: Ξεκινώντας
+    providing_feedback: Παροχή ανατροφοδότησης
+    peer_review_completed: Η αναθεώρηση ολοκληρώθηκε
+  dashboard:
+    explore_course_pages: Εξερεύνηση των σελίδων μαθήματος
+    explore_examples: Εξερεύνηση παραδειγμάτων
+    blog_headline: Πρόσφατα Νέα από την Εκπαίδευση Wiki
+  home:
+    explore: Εξερεύνηση
+    log_in: Σύνδεση μέσω Βικιπαίδειας
+    sign_up: Εγγραφή μέσω Βικιπαίδειας
+  alerts:
+    no_alerts: Δεν βρέθηκαν ειδοποιήσεις.
+  activity:
+    all: Δραστηριότητα
+    edited_by: Επεξεργάστηκε από
+    label: Δραστηριότητα
+  articles:
+    article_development: (ανάπτυξη άρθρου)
+    assigned: Ανατεθειμένα άρθρα
+    available: Διαθέσιμα άρθρα
+    no_available: Δεν υπάρχουν διαθέσιμα άρθρα
+    next: Επόμενο
+    previous: Προηγούμενο
+    article_title: Τίτλος άρθρου
+    assigned_to: Ανατεθέν σε
+    deleted: (διαγράφηκε)
+    edited: Άρθρα που επεξεργάστηκαν
+    edited_by: Επεξεργάστηκε από
+    edited_mobile: Λήμματα
+    filter:
+      wiki_all: Όλα
+      new: Νέο
+      existing: Υπάρχοντα
+      new_and_existing: Νέα και υπάρχοντα
+    hide: Απόκρυψη
+    history: (ιστορικό)
+    label: Λήμματα
+    loading: Φόρτωση λημμάτων...
+    new: (Νέο)
+    rating: Κλάση
+    rating_docs:
+      b: '%{class} — ένα μέτρια ανεπτυγμένο άρθρο'
+      does_not_exist: Αυτό το άρθρο δεν υπάρχει στο Wikipedia
+    see_more: Δείτε περισσότερα
+    show_current_version: Εμφάνιση τρέχουσας έκδοσης
+    title: Τίτλος
+    title_example: Τίτλος άρθρου
+    tools: Αξιολόγηση εργαλείων
+    view: Προβολή άρθρου
+    view_all: Προβολή όλων
+    view_on_wiki: Προβολή στο βίκι
+    edit_size: Επεξεργασία μεγέθους
+    wiki: Βίκι
+    wp10: Δομική Ολοκληρωτικότητα
+    articles_short: Άρθρα
+  articles_wikidata:
+    articles_short: Αντικέιμενα
+  articles_generic:
+    articles_short: Σελίδες
+  assignments:
+    article_link: Άρθρο
+    assign_other: Αναθέστε ένα άρθρο
+    add_available: Προσθήκη διαθέσιμων άρθρων
+    add_available_submit: Προσθήκη λήμματος
+    label: Ανάθεση
+    loading: Φόρτωση αναθέσεων...
+    none_short: Δεν ανατέθηκαν άρθρα
+    remove: Αφαίρεση
+    reviewers: Θεωρητής(-ές)
+    review_other: Ανάθεση ομότιμης αναθεώρησης
+    review_self: Αναθεώρηση ενός άρθρου
+    select: Διαλέξτε
+  blocks:
+    milestones:
+      title: Ορόσημα
+  campaign:
+    active_campaigns: Ενεργές εκστρατείες
+    add_organizer: Προσθήκη οργανωτή
+    alert_article: Τίτλος άρθρου
+    alert_label: Ειδοποιήσεις εκστρατείας
+    alert_type: Τύπος
+    alert_user_id: Χρήστης
+    all_campaigns: Όλες οι εκστρατείες
+    campaign: Εκστρατεία
+    campaigns: Ανακοινώσεις
+    created_at: Ημερομηνία
+    course: Μάθημα
+    create_campaign: Δημιουργία νέας εκστρατείας
+    create_my_campaign: Δημιουργία της εκστρατείας μου!
+    customize_passcode: ένας προεπιλεγμένος κωδικός πρόσβασης
+    default_course_type: προεπιλεγμένος τύπος μαθήματος
+    default_passcode: Προεπιλεγμένος κωδικός πρόσβασης
+    default_passcode_explanation: 'Από προεπιλογή, τα νέα προγράμματα σε αυτή την
+      εκστρατεία πρέπει να έχουν:'
+    description: Περιγραφή
+    delete_campaign: Διαγραφή αυτής της εκστρατείας
+    disable_account_requests: Απενεργοποίηση αιτήσεων λογαριασμών
+    enable_account_requests: Ενεργοποίηση αιτήσεων λογαριασμών
+    no_alerts: Αυτή η εκστρατεία δεν έχει ειδοποιήσεις
+    no_passcode: Χωρίς κωδικό πρόσβασης
+    none: Κανένα
+    organizers: Οργανωτές
+    program_template: Πρότυπο προγράμματος
+    random_passcode: ένας τυχαίος κωδικός πρόσβασης
+    requested_accounts: Αιτούμενοι λογαριασμοί
+    title: Τίτλος
+    use_start_end_dates: Χρησιμοποιήστε ημερομηνίες αρχής και τέλους
+  categories:
+    add_category: Προσθήκη κατηγορίας
+    add_template: Προσθήκη προτύπου
+    add_this_category: Προσθήκη αυτής της κατηγορίας
+    add_this_template: Προσθήκη αυτού του προτύπου
+    confirm_category_addition: Είστε βέβαιοι ότι θέλετε να παρακολουθείτε τις συνεισφορές
+      στην κατηγορία ''%{name}'';
+    depth: Βάθος υποκατηγορίας
+    name: Όνομα
+    category_name: Όνομα κατηγορίας
+    template_name: Nom de modele
+    remove: Αφαίρεση
+    tracked_categories: Κατηγορίες Παρακολούθησης $ Μοντέλα
+  courses:
+    activity: Δραστηριότητα
+    alerts: Ειδοποιήσεις
+    all_courses: Όλα τα μαθήματα
+    archived: Αρχειοθετημένα μαθήματα
+    actions: Ενέργειες
+    articles: Λήμματα
+    calendar:
+      legend: Λεζάντα
+      legend_class_canceled: Διακοπές/Ακυρώθηκε
+      legend_class_meeting: Συνάντηση τάξης
+      legend_class_not_meeting: Καμία σχεδιασμένη συνάντηση
+    cancel: Ακύρωση
+    campaigns: 'Εκστρατείες:'
+    campaign_articles: '%{title} λήμματα'
+    campaign_courses: '%{title} Μαθήματα'
+    campaign_users: '%{title} συντάκτες'
+    course: Μάθημα
+    course_description: Μαθήματα
+    courses: Μαθήματα
+    courses_taught: Μαθήματα που διδάχτηκαν
+    creation_date: Ημερομηνία δημιουργίας
+    creator:
+      course_description: Περιγραφή μαθήματος
+      course_term_placeholder: Όρος
+      course_title: Τίτλος μαθήματος
+      create_button: Δημιουργία του μαθήματός μου!
+      create_label: Δημιουργία νέου μαθήματος
+      create_new: Δημιουργήστε ένα νέο μάθημα
+      create_short: Δημιουργία μαθήματος
+      end_date: Ημερομηνία λήξης
+      end_date_placeholder: Ημερομηνία λήξης (εεεε/μμ/ηη)
+      expected_number: Προσδοκώμενος αριθμός μαθητών
+      find: Βρείτε το μάθημά σας
+      role_description: Ο ρόλος σας στο μάθημα
+      role_description_placeholder: Καθηγητής, διδακτικός βοηθός, κτλ.
+      save_cloned_course: Αποθήκευση νέου μαθήματος
+      start_date: Ημερομηνία έναρξης
+      start_date_placeholder: Ημερομηνία έναρξης (εεεε/μμ/ηη)
+      subject: Θέμα
+    current: Τρέχοντα μαθήματα
+    data_articles: Δεδομένα λημμάτων
+    data_download_info: Λήψη δεδομένων σε μορφή CSV.
+    data_overview: Επισκόπηση δεδομένων
+    data_edits: Δεδομένα επεξεργασιών
+    data_students: Δεδομένα επεξεργασιών
+    delete_course: Διαγραφή μαθήματος
+    delete_suggestion: Διαγραφή
+    dismiss_survey: Απόρριψη
+    download_stats_data: Στατιστικά λήψης
+    duration: Διάρκεια μαθήματος
+    edit_count: Αριθμός επεξεργασιών
+    edit_course_dates: Επεξεργασία ημερομηνιών μαθήματος
+    enable_account_requests: Ενεργοποίηση αιτήσεων λογαριασμών
+    end: Τέλος
+    ended: Το μάθημα έχει τελειώσει.
+    enroll: Εγγραφή
+    enrollment: Προσθήκη/Αφαίρεση Μαθητών
+    error:
+      user_exists: Λυπούμαστε, ο χρήστης %{username} δεν υπάρχει.
+      invalid_language_or_project: Μη έγκυρη γλώσσα/εγχείρημα
+    expected_students: Προσδοκώμενοι μαθητές
+    features_feedback: 'Αυτοματοποιημένες προτάσεις:'
+    feedback: Ανατροφοδότηση
+    instructors: Καθηγητές
+    join: μπείτε
+    join_course: μπείτε στο μάθημα
+    join_prompt: Προσχώρηση στο '%{title}';
+    join_failed: Η εγγραφή απέτυχε.
+    leave_course: Εγκατάλειψη του μαθήματος
+    loading: Φόρτωση σε εξέλιξη...
+    my_articles: Τα λήμματά μου
+    new_week: Πρόσθεση νέας εβδομάδας
+    new_account_check_username: Έλεγχος διαθεσιμότητας ονόματος χρήστη
+    new_account_email: 'Διεύθυνση ηλεκτρονικού ταχυδρομείου:'
+    new_account_email_placeholder: όνομα@example.org
+    new_account_username: Απαιτούμενο όνομα χρήστη
+    new_account_username_invalid: Αυτό δεν είναι έγκυρο όνομα χρήστη
+    new_account_username_placeholder: Επεξεργαστής βίκι 123
+    new_account_submit: Αίτηση λογαριασμού
+    none: Κανένα
+    no_available_actions: Μη διαθέσιμες δράσεις
+    ores_plot: ORES
+    overview: Αρχική
+    passcode: Κωδικός πρόσβασης
+    passcode_none: Χωρίς κωδικό πρόσβασης
+    private: Ιδιωτικό
+    school: Σχολείο
+    start: Έναρξη
+    start_typing: Ξεκινήστε την πληκτρολόγηση
+    students: Σπουδαστές
+    students_taught: Σπουδαστές που διδάχθηκαν
+    students_count: '# Φοιτητές'
+    students_short: Σπουδαστές
+    suggestions_sending: Αποστολή ανατροφοδότησης σε εξέλιξη...
+    user_role: Ρόλος
+    course_details: Λεπτομέρειες μαθήματος
+    subject: Θέμα
+    submitted: Υποβεβλημμένα
+    submitted_at: Υποβλήθηκε στις
+    tags: 'Ετικέτες:'
+    term: Περίοδος
+    timeline_enabled: Το χρονολόγιο ενεργοποιήθηκε
+    timeline_link: Χρονολόγιο
+    time_zone_message: Οι χρόνοι αρχής και τέλους εμφανίζονται στην τοπική ζώνη ώρας
+      σας.
+    title: Τίτλος
+    user_recent_uploads: Πρόσφατες φορτώσεις
+    wiki_edits_enabled: Οι επεξεργασίες βίκι είναι ενεργοποιημένες
+  courses_generic:
+    all_courses: Όλα τα προγράμματα.
+    cancel: Ακύρωση
+    course: Πρόγραμμα
+    courses: Προγράμματα
+    courses_taught: Προγράμματα που διδάχθηκαν
+    campaigns: 'Εκστρατείες:'
+    creator:
+      course_description: Περιγραφή προγράμματος
+      course_school: Ίδρυμα
+      course_term: Πότε
+      course_term_placeholder: Πότε
+      course_title: Τίτλος προγράμματος
+      save_cloned_course: Αποθήκευση
+    delete_course: Διαγραφή προγράμματος
+    enrollment: Προσθήκη/Αφαίρεση Συντακτών
+    view_page: Δείτε τη Σελίδα του Προγράμματος
+  instructor_view:
+    assignments_table:
+      article_name: Όνομα λήμματος
+  metrics:
+    label: Μαθήματα
+    last_update: Τελευταία ενημέρωση στατιστικών
+    bytes_added: Μπάιτ που προστέθηκαν
+    close_modal: Κλείσιμο
+    total_updates: Συνολικός αριθμός ενημερώσεων έως τώρα
+    update_status_heading: Ενημέρωση κατάστασης
+    update_statistics_link: Δείτε περισσότερα
+    general: Γενικά
+  training:
+    previous: < Προηγούμενο
+    view_library_source: προβολή πηγής βιβλιοθήκης
+    view_module_source: προβολή πηγής δομοστοιχείου
+    reload_from_source: επαναφόρτωση από πηγή
+  uploads:
+    uploaded_at: Ώρα ανεβάσματος
+    uploader: Ανεβαστής
+    uploaded_on: Ανέβηκε στις
+    usage_doc: Αριθμός λημμάτων Βικιπαίδειας στα οποία εμφανίζεται η φωτογραφία.
+    usage_count_gallery_tile: Χρησιμοποιήθηκε σε %{usage_count} λήμματα
+  users:
+    contributions_history_full: Προβολή πλήρους ιστορικού συνεισφορών
+    total_uploads: Συνολικές μεταφορτώσεις
+  user_profiles:
+    location_placeholder: Πρόσθεσε την τοποθεσία σου (προαιρετικό)
+  wizard:
+    assignment_type: Τι θα ολοκληρώσουν οι σπουδαστές για την ανάθεση τους από Wikipedia?
+  onboarding:
+    supplementary:
+      why_are_you_here: Τι θα θέλατε να κάνετε;
+  article_finder:
+    add_available_article: Προσθήκη ως διαθέσιμο άρθρο
+    article_finder: Ευρητής λημμάτων
+    article_quality: Ποιότητα Λήμματος (0-100)
+    assign_article_self: Ανάθεση του εαυτού σας
+    average_views: Μέσος όρος προβολών ανά ημέρα
+    category_search: Αναζήτηση κατηγοριών
+    completeness_estimate: Σκορ ολοκληρωτικότητας
+    filtered_articles: Φιλτραρισμένα άρθρα
+    hide_options: Απόκρυψη επιλογών
+    keyword_search: Αναζήτηση πληκτρολογίου
+    minimum_views_label: Ελάχιστες προβολές
+    more_results: Περισσότερα αποτελέσματα
+    no_article_found: Δεν βρέθηκαν άρθρα σε αυτή τη κατηγορία
+    page_assessment_class: Κλάση
+    remove_article: Κατάργηση άρθρου
+    search: Αναζήτηση
+    searching_articles: Αναζήτηση λημμάτων
+    search_placeholder: Εισαγάγετε τη λέξη κλειδιού σας
+    show_options: Εμφάνιση επιλογών
+    submit: Υποβολή
+    tools: Εργαλεία
+    unassign_article_self: Ξεανάθεση άρθρου
+...
