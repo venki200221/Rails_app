@@ -2778,7 +2778,7 @@ __metadata:
     react-refresh: ^0.14.0
     react-router-dom: ^6.2.2
     react-router-hash-link: ^1.2.2
-    react-scroll: ^1.8.1
+    react-scroll: ^1.8.9
     react-select: ^3.1.1
     react-switch: ^6.0.0
     react-test-renderer: ^17.0.2
@@ -10717,16 +10717,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-scroll@npm:^1.8.1":
-  version: 1.8.7
-  resolution: "react-scroll@npm:1.8.7"
+"react-scroll@npm:^1.8.9":
+  version: 1.8.9
+  resolution: "react-scroll@npm:1.8.9"
   dependencies:
     lodash.throttle: ^4.1.1
     prop-types: ^15.7.2
   peerDependencies:
     react: ^15.5.4 || ^16.0.0 || ^17.0.0 || ^18.0.0
     react-dom: ^15.5.4 || ^16.0.0 || ^17.0.0 || ^18.0.0
-  checksum: 37714995f120bcc781e4a445c0e9bd4b7f673674c84e851a96493878fe804799e1ff8ce3ead4c8aa1b5eb3bb039e043ff029607196d269a75c39d9257a372e7f
+  checksum: 534ea65713a59ef7ddf623e38058220b654730352b624371cb2250bcf99784806b4564f3fa9295c969980e227e3de15903d95e069f9a3ca520ff0c0c1fb2e362
   languageName: node
   linkType: hard
 
